@@ -10,7 +10,7 @@
     </parent>
     <groupId>top.alexmmd</groupId>
     <artifactId>spring-shell-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>spring-shell-demo</name>
     <description>spring-shell-demo</description>
     <properties>
